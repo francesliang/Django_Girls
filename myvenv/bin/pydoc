@@ -1,0 +1,5 @@
+#!/Volumes/Macintosh HD2/My Projects/Django Tutorials/DjangoGirls/myvenv/bin/python2.7
+if __name__ == '__main__':
+    import sys, pydoc
+    sys.exit(pydoc.cli())
+
